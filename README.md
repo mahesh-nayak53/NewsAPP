@@ -1,12 +1,62 @@
-# React + Vite
+# 📰 NewsApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and dynamic **News Application** built using **React.js** that provides users with the latest and trending news from various categories.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* Browse latest news across multiple categories (Technology, Sports, Health, Business, Entertainment, etc.)
+* Search news by keywords
+* Read full articles with detailed views
+* Bookmark favorite articles
+* Dark/Light mode toggle
+* Responsive and modern UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**: React.js, Tailwind CSS
+**API**: News API (e.g., NewsAPI.org or any public news data source)
+
+---
+
+## 📁 Folder Structure
+
+newsapp/
+├── src/               # Main React source files
+├── public/            # Static assets
+├── README.md
+├── .gitignore
+├── package.json
+
+---
+
+## ⚙️ Setup Instructions
+
+### **Start the App**
+
+```bash
+cd newsapp
+npm install
+npm run dev
+```
+
+---
+
+## 📸 Screenshots (Optional)
+
+*Add screenshots of your homepage, category pages, and article view here.*
+
+---
+
+## 🙋‍♂️ Author
+
+**Mahesh Nayak**
+
+* GitHub: [@mahesh-nayak53](https://github.com/mahesh-nayak53)
+* LinkedIn: [Mahesh Nayak](https://www.linkedin.com/in/mahesh-nayak-008159281/)
+* Email: [maheshnayakgvt06@gmail.com](mailto:maheshnayakgvt06@gmail.com)
+
+---
