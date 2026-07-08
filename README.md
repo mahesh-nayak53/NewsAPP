@@ -45,9 +45,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots (Optional)
 
-*Add screenshots of your homepage, category pages, and article view here.*
 
 ---
 
