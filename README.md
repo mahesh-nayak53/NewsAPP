@@ -18,7 +18,6 @@ A responsive and dynamic **News Application** built using **React.js** that prov
 ## 🛠️ Tech Stack
 
 **Frontend**: React.js, Tailwind CSS
-**API**: News API (e.g., NewsAPI.org or any public news data source)
 
 ---
 
